@@ -1,6 +1,10 @@
 # 18 November 2026 — World News in One Image
 
-Make.Fun competition entry (`news-image-20261118`) by [@joyrichh](https://github.com/joyrichh).
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/joyrichh/makefun-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/joyrichh/makefun-news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+Make.Fun competition entry ([`news-image-20261118`](https://make.fun/bounty/news-image-20261118)) by [@joyrichh](https://github.com/joyrichh).
 A program that writes one image summing up the world's news of Wednesday,
 18 November 2026, to `/output/entry.png`.
 
